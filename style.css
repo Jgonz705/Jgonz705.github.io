@@ -1,3 +1,7 @@
 .hero {
     padding-block:  32px;
 }
+
+.about > .container > .about-text {
+font size: 1rem;
+}
