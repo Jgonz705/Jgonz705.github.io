@@ -5,3 +5,7 @@
 .about > .container > .about-text {
 font size: 1rem;
 }
+
+input:focus:required:invalid {
+    border: 2px solid red;
+}
